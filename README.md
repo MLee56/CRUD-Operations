@@ -240,3 +240,6 @@ fetch("http://localhost:5000/items/507f1f77bcf86cd799439011", {
 2. Install dependencies: `npm install`
 3. Run the service: `npm start`
 4. Service runs at `http://localhost:5000` (or configured port)
+
+#UML Diagrams
+![CRUD Operations Diagram](CRUD-Operations.png)
